@@ -23,7 +23,7 @@ class Card:
     def __str__(self):
         return self.rank + " of " + self.suit
 
-
+# Deck class
 class Deck:
 
     def __init__(self):
